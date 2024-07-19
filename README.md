@@ -1,4 +1,5 @@
 # board-test-frontend
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+spring, vue.js, postgreSQL 을 사용한 프로젝트입니다.
+>>>>>>> fd002ae58405d1e61ccfa6822c47d23ba7286c40
